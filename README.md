@@ -7,7 +7,7 @@
 ```latex
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.48\textwidth]{figures/plot_/best_acc_exp.pdf}
+    \includegraphics[width=0.48\textwidth]{figures/plot_best_acc_exp.png}
     \caption{Best accuracy as a function of the number of machines $M \in \{9, 16, 36\}$
     on an exponential graph topology (spectral gap $1/\rho = \mathcal{O}(\log M)$),
     comparing \textsc{DMS} and \textsc{DAT-SGD}. Shaded bands denote standard deviation
@@ -29,7 +29,7 @@
 ```latex
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.48\textwidth]{figures/plot_best_acc_ring.pdf}
+    \includegraphics[width=0.48\textwidth]{figures/plot_best_acc_ring.png}
     \caption{Best accuracy as a function of the number of machines $M \in \{9, 16, 36\}$
     on a ring graph topology (spectral gap $\rho = \mathcal{O}(M^{-2})$),
     comparing \textsc{DMS} and \textsc{DAT-SGD}. Shaded bands denote standard deviation
