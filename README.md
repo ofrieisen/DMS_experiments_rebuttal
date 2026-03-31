@@ -2,7 +2,9 @@
 
 ## Figure Captions
 
-### Exponential Graph (`figures/plot_best_acc_exp.pdf`)
+### Exponential Graph
+
+![Exponential Graph](figures/plot_best_acc_exp.png)
 
 ```latex
 \begin{figure}[h]
@@ -24,7 +26,9 @@
 
 ---
 
-### Ring Graph (`figures/plot_best_acc_ring.pdf`)
+### Ring Graph
+
+![Ring Graph](figures/plot_best_acc_ring.png)
 
 ```latex
 \begin{figure}[h]
