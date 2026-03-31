@@ -1,7 +1,5 @@
 # DMS_experiments_rebuttal
 
-## Figure Captions
-
 ### Exponential Graph
 
 ![Exponential Graph](figures/plot_best_acc_exp.png)
