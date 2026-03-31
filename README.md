@@ -4,7 +4,7 @@
 
 **Figure 1. Exponential Graph.**
 Best accuracy on MNIST as a function of the number of machines M in {9, 16, 36} on an exponential graph topology (1/rho = O(log M)). Each machine receives heterogeneous data (8 out of 10 classes); the test set comprises all 10 classes. Shaded bands denote standard deviation across random seeds. DMS consistently achieves higher accuracy and degrades more gracefully as M grows. The decline at M = 36 is expected, as this regime lies beyond the theoretical parallelism bound; we deliberately track iterations past this threshold to expose the degradation behavior. Notably, DMS remains substantially more robust than DAT-SGD even in this over-parallelized regime, highlighting its improved scalability on fast-mixing topologies.
----
+
 
 ### Ring Graph
 
