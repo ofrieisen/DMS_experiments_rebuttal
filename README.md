@@ -1,4 +1,6 @@
-# DMS_experiments_rebuttal
+# MNIST experiments for DMS - rebuttal
+
+### Exponential Graph
 
 <img src="figures/plot_best_acc_exp.png" width="30%">
 
